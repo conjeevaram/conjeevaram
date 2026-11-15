@@ -1,1 +1,1 @@
-mechatronics engineering student at the University of Waterloo focussed on challenging problems in autonomous robotics, computer vision and machine learning.
+Mechatronics engineering student at the University of Waterloo focussed on challenging problems in autonomous robotics, computer vision and machine learning.
